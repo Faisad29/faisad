@@ -496,7 +496,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 40px 0;
+  padding: 30px 0;
   overflow: clip;
 }
 
@@ -511,8 +511,8 @@ section,
 .section-title h2 {
   font-size: 32px;
   font-weight: 700;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
   position: relative;
 }
 
@@ -644,7 +644,7 @@ section,
 # Stats Section
 --------------------------------------------------------------*/
 .stats .stats-item {
-  padding: 30px;
+  padding: 25px;
   width: 100%;
 }
 
@@ -715,10 +715,10 @@ section,
 --------------------------------------------------------------*/
 .resume .resume-title {
   color: var(--heading-color);
-  font-size: 26px;
+  font-size: 24px;
   font-weight: 700;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .resume .resume-item {
@@ -1164,8 +1164,8 @@ section,
 .portfolio-details .portfolio-info h3 {
   font-size: 22px;
   font-weight: 700;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
   border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
 }
 
@@ -1186,7 +1186,7 @@ section,
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .portfolio-details .portfolio-description p {
